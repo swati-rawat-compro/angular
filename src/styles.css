@@ -1,6 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
-@import '~css-star-rating/scss/star-rating';
+/* @import '~css-star-rating/scss/star-rating'; */
 *{
     box-sizing: border-box;
 }
